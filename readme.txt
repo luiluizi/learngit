@@ -1,2 +1,2 @@
 readme
-Creating a new branch os rapid.
+Creating a new branch is rapid & amazing.
