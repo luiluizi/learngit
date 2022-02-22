@@ -1,2 +1,2 @@
 readme
-Creating a new branch is rapid & amazing.
+Creating a new branch is rapid and amazing.
